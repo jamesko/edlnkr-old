@@ -29,3 +29,7 @@ client/lib
 .floobit
 .floo
 .flooignore
+
+.idea
+nbproject
+test

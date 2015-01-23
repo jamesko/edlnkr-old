@@ -1,4 +1,4 @@
-# edlnkr
+# EdLnkr
 
 > Pithy project description
 
